@@ -1,2 +1,2 @@
-# First
+# Pong
 Classic pong game
